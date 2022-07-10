@@ -1,0 +1,15 @@
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.csproj.AssemblyReference.cache
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.AssemblyInfoInputs.cache
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.AssemblyInfo.cs
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.csproj.CoreCompileInputs.cache
+C:\C#\Практика 1\M1\bin\Debug\net6.0\M1.exe
+C:\C#\Практика 1\M1\bin\Debug\net6.0\M1.deps.json
+C:\C#\Практика 1\M1\bin\Debug\net6.0\M1.runtimeconfig.json
+C:\C#\Практика 1\M1\bin\Debug\net6.0\M1.dll
+C:\C#\Практика 1\M1\bin\Debug\net6.0\M1.pdb
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.dll
+C:\C#\Практика 1\M1\obj\Debug\net6.0\refint\M1.dll
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.pdb
+C:\C#\Практика 1\M1\obj\Debug\net6.0\M1.genruntimeconfig.cache
+C:\C#\Практика 1\M1\obj\Debug\net6.0\ref\M1.dll
